@@ -1,0 +1,4 @@
+#Fri Aug 02 20:15:20 BRT 2019
+base.0=/home/marcos/Área de Trabalho/Repositories/AndroidConversorMoedas/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
